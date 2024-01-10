@@ -1,0 +1,82 @@
+JIT                   General Commands Manual                  JIT
+
+NAME
+       jit - A versatile version control system.
+
+SYNOPSIS
+       jit <options | sub-command> [options] [arguments]
+
+DESCRIPTION
+       Jit is a powerful, flexible version control system designed to
+       handle projects of all sizes with speed and efficiency. Inspired
+       by Git, Jit simplifies tracking changes in files and coordinating
+       work among multiple people.
+
+       Developed to be intuitive and easy to use, Jit offers a wide range
+       of commands to manage software development projects effectively.
+       It provides tools to maintain control over project history and
+       progress, suitable for both personal projects and large team
+       collaborations.
+
+COMMANDS
+       jit           The entry point for all global and subcommands.
+
+       init          Initialize a new local repository, setting up
+                     necessary structures for version control.
+
+       config        Manage configuration options both locally and
+                     globally.
+
+       status        Show the current state of the working directory and
+                     staging area.
+
+       commit        Create commits from staged changes with options for
+                     detailed messages.
+
+       stage         Add changes to the staging area, supporting specific
+                     files and patterns.
+
+       log           Display the commit history with details like commit
+                     IDs, authors, dates, and messages.
+
+       fetch         Retrieve updates from a remote repository, updating
+                     local references without merging the changes.
+
+       pull          Combine the functionalities of fetch and merge.
+
+       push          Used to push local branch updates to a remote repository.
+
+       remote        Add, view, and remove remote repositories.
+
+       branch        Manage branches - create, list, rename, and delete.
+
+       checkout      Switch between branches, and optionally create and
+                     check out new branches.
+
+       merge         Used to merge changes from one branch into another.
+
+       rebase        Reapply commits on top of another base.
+
+       diff          View differences in file contents.
+
+       stash         Temporarily store changes and reapply them when
+                     needed.
+
+       tag           Manage tags for marking specific points in history.
+
+       clone         Used to clone a remote repository, creating a local copy.
+
+       reset         Undo changes in the staging area and working
+                     directory.
+
+       rm            Remove files from the staging area and working tree.
+
+SEE ALSO
+       To access detailed help for any command, use 'jit <command> -h'.
+       For example, 'jit commit -h' displays help for the commit
+       command.
+
+AUTHOR
+       Written by [Martin Alemajoh].
+
+Jit                     January 2024                           JIT
