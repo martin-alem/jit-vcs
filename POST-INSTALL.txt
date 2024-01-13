@@ -1,0 +1,18 @@
+Thank you for installing Jit!
+
+Getting Started:
+1. Open your command line interface.
+2. Type 'jit --help' for a list of available commands.
+3. For more detailed information on a specific command, type 'jit [command] --help'.
+
+What's Next?
+- Visit https://jit-vcs.com for advanced tutorials and documentation.
+- Join our community forum to discuss with other Jit users.
+
+Need Help?
+If you need assistance or want to report an issue, please visit our support page at https://jit-vcs.com/support.
+
+Enjoy using Jit for your version control needs!
+
+Best,
+The Jit Team

@@ -1,0 +1,14 @@
+Welcome to Jit!
+
+Thank you for downloading Jit, a versatile version control system.
+
+Installation Instructions:
+1. Run the installer and follow the on-screen instructions.
+2. Once installed, you can start using Jit from the command line.
+
+For detailed documentation and usage instructions, please visit our website https://jit-vcs.com.
+
+If you encounter any issues, please refer to our FAQ section or contact support.
+
+Best Regards,
+The Jit Team
