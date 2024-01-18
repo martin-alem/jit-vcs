@@ -4,7 +4,7 @@ NAME
        jit - A versatile version control system.
 
 SYNOPSIS
-       jit <options | sub-command> [options] [arguments]
+       jit <options | sub-command> [options...] [arguments...]
 
 DESCRIPTION
        Jit is a powerful, flexible version control system designed to
@@ -19,7 +19,7 @@ DESCRIPTION
        collaborations.
 
 COMMANDS
-       jit           The entry point for all global and subcommands.
+       jit           The entry point for all global options and subcommands.
 
        init          Initialize a new local repository, setting up
                      necessary structures for version control.
