@@ -6,6 +6,7 @@ Jit VCS is a versatile version control system designed to streamline coding proc
 1. [Installation](#installation)
 2. [Getting Started](#getting-started)
 3. [Commands](#commands)
+    - [jit](#jit)
     - [jit init](#jit-init)
     - [jit clone](#jit-clone)
     - [jit add](#jit-add)
@@ -29,6 +30,11 @@ Instructions for installing Jit VCS on different operating systems.
 Basic setup and initial steps to start using Jit VCS.
 
 ## Commands
+
+### jit
+Entry point to other sub commands.
+#### Usage 
+- `jit <option | sub-command> <arguments...>`
 
 ### jit init
 Initializes a new Jit repository in the current directory.
